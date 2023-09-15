@@ -1,4 +1,4 @@
-multiCameraLogicalXMLFile=redwood.xml
+multiCameraLogicalXMLFile=taoyao.xml
 multiCameraHWSyncMask=0x0
 logInfoMask=0x0
 overrideLogLevels=0x1
