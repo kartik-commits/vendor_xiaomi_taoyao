@@ -251,6 +251,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/evass.b19:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b19 \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/evass.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mbn \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/evass.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mdt \
+    vendor/xiaomi/redwood/proprietary/vendor/firmware/focaltech_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw.bin \
+    vendor/xiaomi/redwood/proprietary/vendor/firmware/focaltech_ts_fw_m20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_m20.bin \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/goodix_cfg_group_m20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group_m20.bin \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/goodix_firmware_m20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_firmware_m20.bin \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/vpu20_1v.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_1v.b00 \
